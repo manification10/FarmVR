@@ -1,9 +1,9 @@
 ﻿<Properties StartupConfiguration="{09B1A19B-6B79-498D-8C9B-19AD24CE4E34}|">
   <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/PolyToolkit/Internal/ImportGltf.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SceneController.cs">
     <Files>
-      <File FileName="Temp/Compiled-Standard.shader" Line="1" Column="1" />
       <File FileName="Assets/PolyToolkit/Internal/ImportGltf.cs" Line="986" Column="16" />
+      <File FileName="Assets/Scripts/SceneController.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
